@@ -1,0 +1,3 @@
+[submodule "switch_host"]
+	path = switch_host
+	url = https://github.com/betaredex/switch_host
